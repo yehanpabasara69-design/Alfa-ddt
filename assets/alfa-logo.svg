@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+<title id="title">ALFA abstract monogram</title>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c4a4ff"/><stop offset=".48" stop-color="#8b5cf6"/><stop offset="1" stop-color="#46d9ff"/></linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#19132c"/><stop offset="1" stop-color="#080711"/></linearGradient>
+</defs>
+<rect x="3" y="3" width="114" height="114" rx="31" fill="url(#bg)" stroke="#ffffff" stroke-opacity=".12" stroke-width="2"/>
+<path d="M60 18 95 91H78L60 52 42 91H25L60 18Z" fill="url(#g)"/>
+<path d="M44 73H76L84 89H36Z" fill="#090812"/>
+<path d="M60 18 67 33 60 48 53 33Z" fill="#f7f2ff"/>
+<circle cx="91" cy="29" r="4" fill="#47dcff"/>
+</svg>
